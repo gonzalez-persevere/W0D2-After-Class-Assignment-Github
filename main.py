@@ -1,7 +1,7 @@
 
 # main.py
 def hello_world():
-    return "Hello from Arnulfo Gonzalez!"
+    return "Welcome to Git!"
 
 def greet_person(name):
     return f"Hello, {name}!"
